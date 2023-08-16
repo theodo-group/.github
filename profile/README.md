@@ -9,7 +9,7 @@ We deeply value the ethos of open source. We believe that the foundation of inno
 ### LLPhant
 
 <div align="center">
-    <img src="https://github.com/theodo-group/LLPhant/blob/main/doc/assets/llphant-logo.png" alt="LLPhant" style="border-radius: 50%; padding-bottom: 20px"/>
+    <img src="https://github.com/theodo-group/LLPhant/blob/main/doc/assets/llphant-logo.png" alt="LLPhant" style="border-radius: 50%; padding-bottom: 20px; height: 200px;"/>
 </div>
 
 [LLPhant](https://github.com/theodo-group/llphant) is a comprehensive yet powerfull PHP generative AI framework. We designed LLPhant keeping simplicity at its core, ensuring that both beginners and seasoned developers can harness the power of generative AI without the usual complexities.
