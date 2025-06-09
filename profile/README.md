@@ -3,10 +3,10 @@ Welcome to the official GitHub organization of Theodo Group. We specialize in cr
 
 Theodo is a dynamic tech ecosystem comprising specialized brands, each excelling in a specific technology or vertical. Explore our brands and their open-source contributions below:
 - [Theodo](https://github.com/theodo) – The core of our ecosystem, delivering agile web and mobile development expertise.
-- [Theodo Fintech](https://github.com/theodo-fintech) – Specialized in innovative financial technology solutions.
 - [Theodo Apps](https://github.com/bamlab) (formerly BAM) – Focused on high-quality mobile and frontend applications.
-- [Theodo Cloud](https://github.com/padok-team) (formerly Padok) – Experts in DevOps, cloud infrastructure, and platform engineering.
 - [Theodo Data & AI](https://github.com/sicara) (formerly Sicara) – Pioneering data science, AI, and machine learning solutions.
+- [Theodo Cloud](https://github.com/padok-team) (formerly Padok) – Experts in DevOps, cloud infrastructure, and platform engineering.
+- [Theodo Fintech](https://github.com/theodo-fintech) (formerly Sipios) – Specialized in innovative financial technology solutions.
 - [Theodo UK](https://github.com/theodo-uk) – Tailoring tech excellence for the UK market.
 - [Theodo Serverless](https://github.com/aleios-cloud) (formerly Aleios) – Mastering serverless architectures and event-driven applications.
 - [Theodo Morocco](https://github.com/nimbleways) (formerly Nimbleways) – Delivering high-performance software engineering from Morocco.
