@@ -1,7 +1,7 @@
 # Theodo Group
 Welcome to the official GitHub organization of Theodo Group. We specialize in creating custom web and mobile applications tailored to meet the needs of our clients. Our forte lies in our deep understanding of the digital landscape and our ability to leverage the power of cutting-edge technologies.
 
-Theodo is a dynamic tech ecosystem comprising specialized brands, each excelling in a specific technology or vertical. Our GitHub repositories reflect this diversity, offering cutting-edge solutions tailored to different domains. Explore our brands and their open-source contributions below:
+Theodo is a dynamic tech ecosystem comprising specialized brands, each excelling in a specific technology or vertical. Explore our brands and their open-source contributions below:
 - [Theodo](https://github.com/theodo) – The core of our ecosystem, delivering agile web and mobile development expertise.
 - [Theodo Fintech](https://github.com/theodo-fintech) – Specialized in innovative financial technology solutions.
 - [Theodo Apps](https://github.com/bamlab) (formerly BAM) – Focused on high-quality mobile and frontend applications.
